@@ -10,7 +10,7 @@ import (
 
 	"github.com/alecthomas/jsonschema"
 
-	"github.com/coactdev/nuclei/v3/pkg/nuclei/templates"
+	"github.com/coactdev/specgen/v3/pkg/nuclei/templates"
 )
 
 var pathRegex = regexp.MustCompile(`github\.com/coactdev/specgen/v3/(?:internal|pkg)/(?:.*/)?([A-Za-z.]+)`)
