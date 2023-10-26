@@ -1,4 +1,4 @@
-module coactdev/specgen
+module github.com/coactdev/specgen
 
 go 1.21.3
 
